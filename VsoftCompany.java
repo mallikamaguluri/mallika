@@ -20,7 +20,7 @@ public class VsoftCompany {
 }
 class Manager extends VsoftCompany
 {
-    int Managers =7;
+    int Managers =8;
     public Manager(String president,int managers)
     {
         super(president);
